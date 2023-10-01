@@ -39,6 +39,4 @@ pip install streamlit-drawble-canvas
    ![8](./result/8.png)
    ![9](./result/9.png)
 
-## Contact
 
-[![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white)](https://github.com/YunTW) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuntw/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](terrell60813@gmail.com)
